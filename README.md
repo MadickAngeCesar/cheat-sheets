@@ -130,7 +130,7 @@ cheat-sheets/
 ### Local Setup
 ```bash
 # Clone the repository
-git clone <repository-url>
+git clone https://github.com/MadickAngeCesar/cheat-sheets.git
 cd cheat-sheets
 
 # Open in your favorite editor
